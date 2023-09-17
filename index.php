@@ -7,8 +7,7 @@ $comunas = get_comunas();
 // Check if a success message is set in the URL parameters
 $successMessage = isset($_GET['success']) ? $_GET['success'] : null;
 // Function to display and remove messages
-function displayAndRemoveMessage($messageElementId, $timeout)
-{
+function displayAndRemoveMessage($messageElementId, $timeout){
   echo <<<HTML
   <script>
     setTimeout(function() {

@@ -2,7 +2,7 @@
 // My database credentials
 $hostname = "localhost";
 $username = "root";
-$password = "0147";
+$password = "XXXXXXXXXXXXX";
 $database = "voting_system";
 
 $db = mysqli_connect($hostname, $username, $password, $database);

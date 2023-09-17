@@ -1,6 +1,7 @@
 # Sistema de Votación - Prueba de Diagnóstico
 
-Este repositorio contiene un Sistema de Votación desarrollado como parte de una prueba de diagnóstico para la empresa Desis. El sistema ha sido diseñado siguiendo las especificaciones proporcionadas y utiliza una variedad de tecnologías web estándar.
+Este repositorio contiene un Sistema de Votación desarrollado como parte de una prueba de diagnóstico.
+El sistema ha sido diseñado siguiendo las especificaciones proporcionadas y utiliza una variedad de tecnologías web estándar.
 
 ## Descripción del Proyecto
 
@@ -26,8 +27,8 @@ Este proyecto tiene como objetivo demostrar la capacidad para desarrollar un Sis
 - **Base de datos**: MySQL
 - **Versión de MySQL**: 5.7
 - **Nombre de la base de datos**: voting_system
-- **Usuario de la base de datos**: root
-- **Contraseña de la base de datos**: 0147
+- **Usuario de la base de datos**: XXXXXXXX
+- **Contraseña de la base de datos**: XXXXXXXX
 
 ## Instrucciones de Uso
 
@@ -44,7 +45,3 @@ Este repositorio es parte de una prueba de diagnóstico y no está abierto a con
 ## Nota Importante
 
 Este proyecto es una prueba técnica creada con el propósito de demostrar las habilidades en desarrollo web y no representa un proyecto de producción real.
-
----
-
-¡Gracias por la oportunidad de participar en esta prueba de diagnóstico para Desis! Si tienes alguna pregunta o necesitas más información, no dudes en ponerte en contacto conmigo. -> fcojour@gmail.com
