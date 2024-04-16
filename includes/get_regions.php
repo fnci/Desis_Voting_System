@@ -4,8 +4,8 @@ function get_regions()
     try {
         // Import Credentials
         require 'database.php';
-        // SQL Queries
-        $sql = "SELECT * FROM regiones;";
+        // SQL Query to fetch regions and order them alphabetically
+        $sql = "SELECT * FROM regiones ORDER BY nombre;";
         // Make query
         $query = mysqli_query($db, $sql);
         return $query;

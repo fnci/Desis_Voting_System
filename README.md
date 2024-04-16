@@ -25,7 +25,7 @@ Este proyecto tiene como objetivo demostrar la capacidad para desarrollar un Sis
 ### Configuración de la base de datos
 
 - **Base de datos**: MySQL
-- **Versión de MySQL**: 5.7
+- **Versión de MySQL**: 8.0.35
 - **Nombre de la base de datos**: voting_system
 - **Usuario de la base de datos**: XXXXXXXX
 - **Contraseña de la base de datos**: XXXXXXXX

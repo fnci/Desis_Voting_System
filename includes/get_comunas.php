@@ -10,8 +10,8 @@ function get_comunas()
         if (isset($_POST['region_id'])) {
             $regionId = $_POST['region_id'];
 
-            // SQL Query to fetch comunas for the selected region
-            $sql = "SELECT * FROM comunas WHERE id_region = $regionId;";
+            // SQL Query to fetch comunas for the selected region and order them alphabetically
+            $sql = "SELECT * FROM comunas WHERE id_region = $regionId ORDER BY nombre;";
 
             // Make the query
             $query = mysqli_query($db, $sql);
